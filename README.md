@@ -5,11 +5,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=folaoluwafemi&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="folaoluwafemi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eniiyanu&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="Eniiyanu" /></p>
 
 <br clear="left"/>
 
-![Eniiyanu's github stats](https://github-readme-stats.vercel.app/api?username=folaoluwafemi&show_icons=true&theme=gruvbox)
+![Eniiyanu's github stats](https://github-readme-stats.vercel.app/api?username=Eniiyanu&show_icons=true&theme=gruvbox)
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Eniiyanu&theme=gruvbox" alt="folaoluwafemi" /></p>
