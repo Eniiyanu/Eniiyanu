@@ -12,6 +12,6 @@
 ![Eniiyanu's github stats](https://github-readme-stats.vercel.app/api?username=Eniiyanu&show_icons=true&theme=gruvbox)
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Eniiyanu&theme=gruvbox" alt="folaoluwafemi" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Eniiyanu&theme=gruvbox" alt="Eniiyanu" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eniiyanu&theme=gruvbox" alt = "" /></a> </p>
