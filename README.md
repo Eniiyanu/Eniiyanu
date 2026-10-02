@@ -51,7 +51,7 @@ More on [oluwaferanmioladepo.com](https://oluwaferanmioladepo.com).
 
 | Work | Focus | Status |
 |---|---|---|
-| **TRIDENT** | Safety-gated pediatric teledermatology triage for pigmented skin | MICCAI & NEURIPS submission |
+| **TRIDENT** | Safety-gated pediatric teledermatology triage for pigmented skin | MICCAI submission |
 | **Chest X-Ray Uncertainty** | Pneumonia triage under degraded imaging conditions | NeurIPS 2026 submission |
 | **Label-Free Fault Detection** | Detects bearing faults from vibration and stator current using cross-modal attention and latent diffusion, trained on healthy data only. It reaches F1 0.95 and AUROC 0.975 on Paderborn KAt | Accepted at IEEE IRAI26 ·  1st place, Dangote Competition |
 | **Kinematic Stability of Quantized On-Device Pose Estimation** | Joint-angle stability for mobile telerehabilitation in low-resource settings. FP32 cuts angle error by 42%, and INT8 shrinks the model by 71% | IJCAI-ECAI 2026 manuscript |
@@ -72,6 +72,20 @@ More on [oluwaferanmioladepo.com](https://oluwaferanmioladepo.com).
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 
 **Also:** LoRA fine-tuning · cross-modal attention · signal processing · low-resource NLP
+
+---
+
+## Talks
+
+**TEDxTanke: "Beyond the Seat: Creating Impact Without Waiting for Permission"**
+
+Is "a seat at the table" the only way to make a difference, or is waiting for one a trap? A talk on acting without waiting for permission.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=DrorZn9_awM">
+    <img src="https://img.youtube.com/vi/DrorZn9_awM/hqdefault.jpg" alt="Watch the TEDxTanke talk on YouTube" width="480" />
+  </a>
+</p>
 
 ---
 
