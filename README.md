@@ -51,7 +51,7 @@ More on [oluwaferanmioladepo.com](https://oluwaferanmioladepo.com).
 
 | Work | Focus | Status |
 |---|---|---|
-| **TRIDENT** | Safety-gated pediatric teledermatology triage for pigmented skin | MICCAI submission |
+| **TRIDENT** | Safety-gated pediatric teledermatology triage for pigmented skin | MICCAI & NEURIPS submission |
 | **Chest X-Ray Uncertainty** | Pneumonia triage under degraded imaging conditions | NeurIPS 2026 submission |
 | **Label-Free Fault Detection** | Detects bearing faults from vibration and stator current using cross-modal attention and latent diffusion, trained on healthy data only. It reaches F1 0.95 and AUROC 0.975 on Paderborn KAt | Accepted at IEEE IRAI26 ·  1st place, Dangote Competition |
 | **Kinematic Stability of Quantized On-Device Pose Estimation** | Joint-angle stability for mobile telerehabilitation in low-resource settings. FP32 cuts angle error by 42%, and INT8 shrinks the model by 71% | IJCAI-ECAI 2026 manuscript |
